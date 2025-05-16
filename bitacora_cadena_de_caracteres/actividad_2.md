@@ -18,4 +18,4 @@
 
 `*p` apunta a esa zona, no puedes modificar su contenido, por ejemplo, `p[0] = 'h';` causaría error.
 
-En cambio, el arreglo `str[]` sí permite modificar los caracteres.  
+En cambio, el arreglo `str[]` sí permite modificar los caracteres.      
