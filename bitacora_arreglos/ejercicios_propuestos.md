@@ -1,4 +1,4 @@
-1. Crear una función que reciba un arreglo de enteros y su tamaño, y calcule el promedio de sus valores.  
+## 1. Crear una función que reciba un arreglo de enteros y su tamaño, y calcule el promedio de sus valores.  
 ```
 float calcularPromedio(int arr[], int tam) 
 {
@@ -12,7 +12,7 @@ float calcularPromedio(int arr[], int tam)
 
 ```
 
-2. Escribir una función que reciba un arreglo y lo ordene en orden ascendente usando el método burbuja.  
+## 2. Escribir una función que reciba un arreglo y lo ordene en orden ascendente usando el método burbuja.  
 ```
 void ordenarBurbuja(int arr[], int tam) 
 {
@@ -32,7 +32,7 @@ void ordenarBurbuja(int arr[], int tam)
 
 ```
 
-3. Crear una función que reciba un arreglo y devuelva el valor máximo contenido en él.  
+## 3. Crear una función que reciba un arreglo y devuelva el valor máximo contenido en él.  
 ```
 int valorMaximo(int arr[], int tam) 
 {

@@ -1,4 +1,4 @@
-Ejercicio 1:  
+# Ejercicio 1:  
 ```
 #include <stdio.h>
 
@@ -14,7 +14,7 @@ int main() {
 }
 ```  
 
-Ejercicio 2:  
+# Ejercicio 2:  
 ```
 #include <stdio.h>
 
@@ -30,7 +30,7 @@ int main() {
 }
 ```  
 
-Ejercicio 3:  
+# Ejercicio 3:  
 ```
 #include <stdio.h>
 
@@ -66,7 +66,7 @@ return 0;
 }
 ```  
 
-Ejercicio 4:  
+# Ejercicio 4:  
 ```
 #include <stdio.h>
 
@@ -103,7 +103,7 @@ int main() {
 }
 ```  
 
-Ejercicio 5:  
+# Ejercicio 5:  
 ```
 #include <stdio.h>
 void analizarNotas(float notas[], int cantidad) 
@@ -156,7 +156,7 @@ int main()
     return 0;
 }
 ```  
-Ejercicio 6:  
+# Ejercicio 6:  
 ```
 #include <stdio.h>
 

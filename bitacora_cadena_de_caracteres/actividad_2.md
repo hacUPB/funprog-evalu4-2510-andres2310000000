@@ -6,10 +6,10 @@
 5---'\0'---Terminador nulo  
   
 
-¿Qué pasa si asignas str[5] = '!'?    
+###  ¿Qué pasa si asignas str[5] = '!'?    
 `str` ya no es una cadena válida en C, y funciones como `printf("%s", str)` podrían imprimir basura o causar errores.  
 
-¿Qué pasa si asignas str[6] = 'X'?  
+### ¿Qué pasa si asignas str[6] = 'X'?  
  ¡Error de memoria! Se esta accediendo fuera del arreglo, lo que puede causar comportamiento indefinido, o extraño.  
 
  `char *p = "Hello";`  
